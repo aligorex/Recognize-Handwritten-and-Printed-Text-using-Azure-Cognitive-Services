@@ -27,7 +27,7 @@ namespace RecognizeText20
             var queryString = HttpUtility.ParseQueryString(string.Empty);
 
             // Request headers
-            client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", "7a378d378c8f426dbccd26bc660d770d");
+            client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", "xxxxxx");
             string imageFilePath = "Newhire-page-001.jpg";
 
             // Request parameters
